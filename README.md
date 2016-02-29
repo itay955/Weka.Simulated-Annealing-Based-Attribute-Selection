@@ -2,8 +2,8 @@
 
 
 ###1. Reference
-Kuhn and Johnson (2013), Applied Predictive Modeling, Springer\n
-Kirkpatrick, S., Gelatt, C. D., and Vecchi, M. P. (1983).\n
+Kuhn and Johnson (2013), Applied Predictive Modeling, Springer</br>
+Kirkpatrick, S., Gelatt, C. D., and Vecchi, M. P. (1983)</br>
 Optimization by simulated annealing. Science, 220(4598), 671.
 
 ###2. Implemented By
